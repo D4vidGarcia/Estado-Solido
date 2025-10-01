@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+ipykernel
+ipywidgets
+pyvista[jupyter]
+trame
+trame-client
+trame-vtk
+trame-vuetify
